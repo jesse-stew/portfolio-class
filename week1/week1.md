@@ -1,4 +1,4 @@
-# Intro to Design
+# Coding for Designers Week 1: Intro to Design
 
 ## Slides
 [Download zip-contains Keynote and PDF](https://www.dropbox.com/sh/v6ov54lr12lwqrp/AAB9AM8ziokqrxKmwe_0sndQa?dl=0)
