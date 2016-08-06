@@ -1,4 +1,4 @@
-# Coding for Designers Week 2
+# Coding for Designers Week 2: Intro to HTML
 
 ## Slides
 [Download zip-contains Keynote and PDF](https://www.dropbox.com/sh/avyr2pxwq8bp61h/AACggEeTAEalsCYRbgzrUybDa?dl=0)
