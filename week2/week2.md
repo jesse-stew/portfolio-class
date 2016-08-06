@@ -1,4 +1,4 @@
-# Coding for Designer Week 2
+# Coding for Designers Week 2
 
 ## Slides
 [Download zip-contains Keynote and PDF](https://www.dropbox.com/sh/avyr2pxwq8bp61h/AACggEeTAEalsCYRbgzrUybDa?dl=0)
@@ -11,4 +11,4 @@
 ### Homework
 * Finish coding the HTML of all three pages of your website.
 * Bonus: continue practicing in your practice folder.
-* Extra Bonus: read articles that will be emailed out.
+* Bonus: read article that will be emailed out.
