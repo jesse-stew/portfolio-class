@@ -1,4 +1,4 @@
-# Coding for Designer Week 3
+# Coding for Designers Week 3
 
 ## Slides
 [Download zip-contains Keynote and PDF](https://www.dropbox.com/sh/aaepu6gpudj1w5l/AAB7ZRuw_1ooGEEL1vM0qeGFa?dl=0)
