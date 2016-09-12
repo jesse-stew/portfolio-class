@@ -9,4 +9,6 @@
 * [GitHub Pages](https://pages.github.com/) 
 * [:hover Demo](http://codepen.io/crowjm/pen/rrOozL)
 * [:hover Demo with Transitions](http://codepen.io/crowjm/pen/XjmoaR)
-* also make sure students have access to a pdf of the slides
+* [Animation Demos](http://codepen.io/collection/DrLzgR/)
+* [CSS Animations](https://css-tricks.com/almanac/properties/a/animation/)
+* [More CSS Animations](https://robots.thoughtbot.com/css-animation-for-beginners)
