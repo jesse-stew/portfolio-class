@@ -12,3 +12,10 @@
 * [Animation Demos](http://codepen.io/collection/DrLzgR/)
 * [CSS Animations](https://css-tricks.com/almanac/properties/a/animation/)
 * [More CSS Animations](https://robots.thoughtbot.com/css-animation-for-beginners)
+* [Command Line Starter Kit](http://samkapila.com/command-line-starter-kit/)
+
+### Further Materials
+* [Design Starter Kit](http://samkapila.com/design-starter-kit/)
+* [TutsPlus](http://tutsplus.com/)
+* [Treehouse - One Month Free Trial](https://teamtreehouse.com/)
+* [CodePen - Free Code Playground](http://codepen.io/)
